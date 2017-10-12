@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SearchViewTest</string>
+
+    <string-array name="country">
+        <item>Myanmar</item>
+        <item>Singapore</item>
+        <item>Vietnam</item>
+        <item>Laos</item>
+        <item>Cambodia</item>
+        <item>Thailand</item>
+        <item>Malaysia</item>
+        <item>Indonesia</item>
+        <item>Brunei</item>
+        <item>Phillipine</item>
+        <item>တီေမာ</item>
+        <item>တရုတ္</item>
+        <item>အိႏၵိယ</item>
+        <item>စပိန္</item>
+        <item>ျပင္သစ္</item>
+    </string-array>
+</resources>
